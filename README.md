@@ -2,7 +2,7 @@
 
 ![alt text](https://newsite.kochimetro.org/wp-content/uploads/2018/01/train.png)
 
-Commuter is a web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern with Ruby. It still on development process but I'll add more awesome simple things to this framework sooner.
+Commuter is a web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern with Ruby.
 
 ## Installation
 
